@@ -8,6 +8,7 @@ for (var i = 0; i < nbelems; i++) {
 		var nodeB = obj.node(1);
 		nodeA.set_property("restraint", 63);
 		nodeB.set_property("restraint", 63);
-		
+        // this is a test
+        
 	}
 }
